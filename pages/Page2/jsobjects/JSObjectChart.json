@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObjectChart",
+    "pageId": "Page2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tbar: [\n  {\n    \"x\": \"Product1\",\n    \"y\": 20000\n  },\n  {\n    \"x\": \"Product2\",\n    \"y\": 22000\n  },\n  {\n    \"x\": \"Product3\",\n    \"y\": 32000\n  }\n]\n}",
+    "variables": [
+      {
+        "name": "bar",
+        "value": "[{\n  \"x\": \"Product1\",\n  \"y\": 20000\n}, {\n  \"x\": \"Product2\",\n  \"y\": 22000\n}, {\n  \"x\": \"Product3\",\n  \"y\": 32000\n}]"
+      }
+    ]
+  },
+  "id": "Page2_JSObjectChart",
+  "deleted": false,
+  "gitSyncId": "63202d7d114fb329c74d9534_6320363a114fb329c74d95e3"
+}
