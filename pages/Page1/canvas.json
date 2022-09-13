@@ -1059,6 +1059,7 @@
                       "rightColumn": 63,
                       "widgetId": "ws0o9tqaux",
                       "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+                      "errorMessage": "\"name 需要先输入\"",
                       "isVisible": true,
                       "label": "age",
                       "version": 2,
